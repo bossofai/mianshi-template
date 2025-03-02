@@ -1,0 +1,77 @@
+{
+  "questions": {
+    "title": "面试题目与描述",
+    "content": "### 题目：算法题 - 查找数组中的重复元素\n\n**描述：**\n\n给定一个整数数组，其中某些元素重复出现两次，而其他元素只出现一次。\n请找出所有重复出现两次的元素。\n\n**示例：**\n\n输入: [4,3,2,7,8,2,3,1]\n输出: [2,3]"
+  },
+  "interviewers": {
+    "title": "面试者 (AI Models & Tools)",
+    "cards": [
+      {
+        "name": "OpenAI Series (GPT-4, etc.)",
+        "position": "AI Model",
+        "link": "https://openai.com/"
+      },
+      {
+        "name": "Gemini Series",
+        "position": "AI Model",
+        "link": "https://deepmind.google/technologies/gemini/"
+      },
+      {
+        "name": "Claude Series",
+        "position": "AI Model",
+        "link": "https://www.anthropic.com/claude"
+      },
+      {
+        "name": "Cursor",
+        "position": "AI Programming Tool",
+        "link": "https://cursor.sh/"
+      },
+      {
+        "name": "Traceloop",
+        "position": "AI Programming Tool",
+        "link": "https://www.traceloop.com/"
+      },
+      {
+        "name": "Monica",
+        "position": "AI Programming Tool",
+        "link": "https://monica.im/"
+      },
+      {
+        "name": "Code Bolt",
+        "position": "AI Programming Tool",
+        "link": "#"
+      },
+      {
+        "name": "Vercel v0",
+        "position": "AI Programming Tool",
+        "link": "https://vercel.com/blog/vercel-v0-reimagine-frontend-development"
+      }
+    ]
+  },
+  "videos": {
+    "title": "面试过程视频",
+    "cards": [
+      {
+        "title": "视频 1",
+        "date": "2023-10-27",
+        "link": "#"
+      },
+      {
+        "title": "视频 2",
+        "date": "2023-10-28",
+        "link": "#"
+      }
+    ]
+  },
+  "results": {
+    "title": "面试结果评分 (AI Model/Tool Performance)",
+    "table": {
+      "headers": ["评分项", "OpenAI Series", "Gemini Series", "Claude Series", "Cursor", "Traceloop", "Monica", "Code Bolt", "Vercel v0"],
+      "rows": [
+        {"评分项": "Text-to-UI Completion", "OpenAI Series": "4/5", "Gemini Series": "5/5", "Claude Series": "4/5", "Cursor": "5/5", "Traceloop": "3/5", "Monica": "4/5", "Code Bolt": "3/5", "Vercel v0": "5/5"},
+        {"评分项": "User Experience", "OpenAI Series": "5/5", "Gemini Series": "4/5", "Claude Series": "4/5", "Cursor": "4/5", "Traceloop": "3/5", "Monica": "4/5", "Code Bolt": "3/5", "Vercel v0": "5/5"},
+        {"评分项": "Overall Evaluation", "OpenAI Series": "优秀", "Gemini Series": "卓越", "Claude Series": "优秀", "Cursor": "卓越", "Traceloop": "良好", "Monica": "优秀", "Code Bolt": "良好", "Vercel v0": "卓越"}
+      ]
+    }
+  }
+}
